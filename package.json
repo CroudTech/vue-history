@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/CroudSupport/vue-history/issues"
   },
-  "homepage": "https://github.com/CroudSupport/vue-history#readme"
+  "homepage": "https://github.com/CroudSupport/vue-history#readme",
+  "dependencies": {
+    "historyjs": "^1.8.0-b2"
+  }
 }
