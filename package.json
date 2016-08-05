@@ -1,0 +1,25 @@
+{
+  "name": "vue-history",
+  "version": "0.0.1",
+  "description": "Vuejs 1.0 wrapper for history.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroudSupport/vue-history.git"
+  },
+  "keywords": [
+    "html5",
+    "history",
+    "vuejs",
+    "hashbang"
+  ],
+  "author": "Paul Watkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CroudSupport/vue-history/issues"
+  },
+  "homepage": "https://github.com/CroudSupport/vue-history#readme"
+}
